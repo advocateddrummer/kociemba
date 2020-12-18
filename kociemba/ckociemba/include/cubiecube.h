@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include "corner.h" 
+#include "corner.h"
 #include "edge.h"
 
 //Cube on the cubie level
